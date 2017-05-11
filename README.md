@@ -5,6 +5,12 @@ http://demo.rabifoo.com/#/inputer
 
 ### Usage
 
+```javascript
+import swiper from './plugin/inputer'
+
+Vue.use(inputer)
+```
+
 html:
 ````html
 <div class="item">
